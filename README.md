@@ -1,0 +1,1 @@
+Whats a better way to get familiar with a new web framework then to create a blog? 😁
