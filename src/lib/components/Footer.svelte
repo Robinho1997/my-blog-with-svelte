@@ -50,7 +50,8 @@ li {
 
 a {
     color: inherit;
-    text-decoration-color: gold;
+    text-decoration-color: rgb(255, 235, 122);
+    text-underline-offset: 5px;
 }
 
 .i {
